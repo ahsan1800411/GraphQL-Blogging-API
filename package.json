@@ -1,0 +1,17 @@
+{
+  "name": "graphql",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10",
+    "uuid": "^8.3.2"
+  }
+}
